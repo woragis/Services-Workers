@@ -1,0 +1,6 @@
+[submodule "ai-service"]
+	path = ai-service
+	url = git@github.com:woragis/ai-service.git
+[submodule "creative-service"]
+	path = creative-service
+	url = git@github.com:woragis/creative-service.git
