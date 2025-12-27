@@ -4,3 +4,12 @@
 [submodule "creative-service"]
 	path = creative-service
 	url = git@github.com:woragis/creative-service.git
+[submodule "email-worker"]
+	path = email-worker
+	url = git@github.com:woragis/email-worker.git
+[submodule "whatsapp-worker"]
+	path = whatsapp-worker
+	url = git@github.com:woragis/whatsapp-worker.git
+[submodule "translation-worker"]
+	path = translation-worker
+	url = git@github.com:woragis/translation-worker.git
