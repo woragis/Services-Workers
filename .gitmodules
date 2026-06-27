@@ -13,3 +13,6 @@
 [submodule "translation-worker"]
 	path = translation-worker
 	url = git@github.com:woragis/translation-worker.git
+[submodule "resume-service"]
+	path = resume-service
+	url = git@github.com:woragis/woragis-jobs-resume-worker-service.git
