@@ -16,3 +16,12 @@
 [submodule "resume-service"]
 	path = resume-service
 	url = git@github.com:woragis/woragis-jobs-resume-worker-service.git
+[submodule "creatives-server"]
+	path = creatives-server
+	url = git@github.com:woragis/creatives-server.git
+[submodule "docs-service"]
+	path = docs-service
+	url = git@github.com:woragis/docs-service.git
+[submodule "visual-service"]
+	path = visual-service
+	url = git@github.com:woragis/visual-service.git
